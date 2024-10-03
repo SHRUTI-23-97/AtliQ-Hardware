@@ -1,1 +1,1 @@
-# AtliQ-Hardware
+Developed a comprehensive customer performance report, providing in-depth analysis of market performance versus sales targets, while also designing Profit & Loss (P&L) reports segmented by fiscal year, month, and market for clear financial insights and strategic planning.
